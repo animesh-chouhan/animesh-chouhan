@@ -80,15 +80,14 @@ Currently working as a software developer for JPMorgan Chase. I am an IIT Kharag
 <br/><br/>
 <hr>
 
-<!--from img.icons8.com/dusk/48/000000/name.png-->
 <div>
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href= "https://www.linkedin.com/in/animesh-chouhan/"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/linkedin.png"/></a>
-  <a href= "https://medium.com/@praneeth.kolanu.iitkgp"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/medium-new.png"/></a>
-  <a href= "mailto:animeshsingh.iitkgp@gmail.com"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/email.png"/></a>
-  <a href= "https://twitter.com/animeshsingh38"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/instagram.png"/></a>
-  <a href= "https://www.facebook.com/praneeth.reddy.3557440/"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/facebook.png"/></a>
+  <a href= "https://www.linkedin.com/in/animesh-chouhan/"><img src="https://raw.githubusercontent.com/animesh-chouhan/animesh-chouhan/main/assets/linkedin.png"/></a>
+  <a href= "https://medium.com/@animesh-chouhan"><img src="https://raw.githubusercontent.com/animesh-chouhan/animesh-chouhan/main/assets/medium-new.png"/></a>
+  <a href= "mailto:animeshsingh.iitkgp@gmail.com"><img src="https://raw.githubusercontent.com/animesh-chouhan/animesh-chouhan/main/assets/email.png"/></a>
+  <a href= "https://www.instagram.com/animeshsingh38/"><img src="https://raw.githubusercontent.com/animesh-chouhan/animesh-chouhan/main/assets/instagram.png"/></a>
+  <a href= "https://www.facebook.com/singhanimesh38"><img src="https://raw.githubusercontent.com/animesh-chouhan/animesh-chouhan/main/assets/facebook.png"/></a>
   
 </p>
 </div>
