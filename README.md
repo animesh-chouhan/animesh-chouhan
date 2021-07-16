@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋, I'm Animesh Singh Chouhan.
+## Hi there 👋, I'm [Animesh Singh Chouhan](https://animesh-chouhan.me).
 ### I am a passionate open source contributer and a full stack developer.
 <!-- ![cover photo](https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/cover.jpg) -->
 
