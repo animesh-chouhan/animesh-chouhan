@@ -23,10 +23,7 @@ Here are some ideas to get you started:
 ![Website](https://img.shields.io/website?down_color=red&up_color=green&up_message=live&url=https%3A%2F%2Fanimesh-chouhan.me%2F)
 
 
-
-
-
-Currently working as a software developer for JPMorgan Chase. I am an IIT Kharagpur graduate. Open Source software excites me, and I am ever ready to learn more. I am eagerly waiting to contribute to interesting open-source projects.
+Currently working as a software developer for JPMorgan Chase. I am an IIT Kharagpur graduate and open-source software excites me. 
 
 - 🔭 I’m currently working on a personal project. 
 - 🌱 I’m currently learning Apache Spark. 
