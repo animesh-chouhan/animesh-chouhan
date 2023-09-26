@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there 👋, I'm [Animesh Singh Chouhan](https://animesh-chouhan.me).
-### I am a passionate open source contributer and a full stack developer.
+### I am a passionate open-source contributor and a full-stack developer.
 <!-- ![cover photo](https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/cover.jpg) -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=animesh-chouhan.animesh-chouhan)
@@ -28,7 +28,7 @@ Currently working as a software developer for JPMorgan Chase. I am an IIT Kharag
 - 🔭 I’m currently working on a personal project. 
 - 🌱 I’m currently learning Apache Spark. 
 - 👯 I’m looking forward to collaborate in any interesting project. 
-- 💬 Talk with me about technology, finance and entrepreneurship. 
+- 💬 Talk with me about technology, finance, and entrepreneurship. 
 <!-- - ⚡ My Motto: Success is not how much money you make, it is how much difference you bring in people's lives.  -->
 
 
@@ -66,12 +66,7 @@ Currently working as a software developer for JPMorgan Chase. I am an IIT Kharag
 
 <h2><b>⚡ Github Stats</b></h2>
 <p align="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=animesh-chouhan&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=My Github Stats&hide_border=false&border_color=808080&bg_color=242424" alt="animesh"/>
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animesh-chouhan&theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="animesh langs" />
-</p>
-
-<p align="center">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=animesh-chouhan&theme=tokyonight_duo&hide_border=false" alt="Animesh's streaks" />
 </p>
 
 <br/><br/>
