@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=animesh-chouhan.animesh-chouhan)
 ![GitHub followers](https://img.shields.io/github/followers/animesh-chouhan?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/animeshsingh38?style=social)
-![Website](https://img.shields.io/website?down_color=red&up_color=green&up_message=live&url=https%3A%2F%2Fanimesh-chouhan.me%2F)
+![Website](https://img.shields.io/website?down_color=red&up_color=green&up_message=live&url=https%3A%2F%2Fanimeshchouhan.com%2F)
 
 
 Currently working as a software developer for JPMorgan Chase. I am an IIT Kharagpur graduate and open-source software excites me. 
